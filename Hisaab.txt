@@ -8,3 +8,6 @@ aj ka hisaab  1000 rupees
  im using stash
 
  footer is created for  navigation = i use  all the social media links and  all teh contact details 
+
+
+Marquee feature created  "Marqueee"
