@@ -4,3 +4,7 @@ aj ka hisaab  1000 rupees
  7 tarik ko shop band this profit zero rupees
 
  for understanding the branching system i write this in feature/navbar branch
+ 
+ im using stash
+
+ footer is created for  navigation = i use  all the social media links and  all teh contact details 
